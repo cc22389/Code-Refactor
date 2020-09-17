@@ -25,4 +25,5 @@ For reference, these were my specific goals:
   WHEN I view the title element
   THEN I find a concise, descriptive title
 <br>
+<br>
 This was a really good introductory assignment. I will admit I get confused with the pathways of uploading/downloading and creating a github pages link (the why behind it) BUT I think I did it correctly with some help from classmates & instructors. 
