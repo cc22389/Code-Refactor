@@ -1,4 +1,4 @@
-# Code_Refractor
+# Code_Refactor
 Homework Due 9.17.2020
 <br>
 I was provided an html & css file to refact. 
